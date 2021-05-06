@@ -1,17 +1,17 @@
-<h1 style="Color:aquamarine"> Orlando Ayala Fuentes</h1>
-<img src="https://i.picsum.photos/id/1080/400/200.jpg" width: 400px;/>
-<style type="text/css">
-				div {
-					width: 500px;
-					height: 600px;
-				}
-				div{
-					background: Color:black;
-				}
-				div{
-					padding: 50px;
-				}
-				div{
-					border: 30px, Color:blue;
-				}
-			</style>
+h1{
+	Color:aquamarine;
+}
+img{
+	width: 400px;
+}
+#thirdDiv{
+	background: Color:black;
+	height: 500px;
+	width: 600px;
+	padding: 50px;
+	border: 10px solid white;
+}
+#spandId{
+	font-size: 18px;
+	margin: 50px;
+}
